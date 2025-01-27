@@ -10,3 +10,10 @@
     border: 0px solid transparent;
     border-bottom-width: 4px; 
 }
+
+.Time .Colaboradores {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
